@@ -1,0 +1,16 @@
+{
+  "1": {
+    "id": "1",
+    "name": "1",
+    "owner": "admin",
+    "url": "http://2.0.4.200:5001",
+    "username": "admin",
+    "password": "admin",
+    "interval": 5,
+    "headless": true,
+    "username_selector": "",
+    "password_selector": "",
+    "submit_selector": "",
+    "success_indicator": ""
+  }
+}

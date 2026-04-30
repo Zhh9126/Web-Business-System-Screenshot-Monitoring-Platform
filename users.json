@@ -1,0 +1,10 @@
+{
+  "admin": {
+    "password": "21232f297a57a5a743894a0e4a801fc3",
+    "role": "admin"
+  },
+  "user1": {
+    "password": "96e79218965eb72c92a549dd5a330112",
+    "role": "user"
+  }
+}
